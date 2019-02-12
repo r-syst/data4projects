@@ -47,7 +47,7 @@ plus méthodologique, en amont, pour mieux comprendre les déterminants de la qu
 
 
 
-## Fichiers de résultats
+## Fichiers de résultats et graphiques
 
 Dans cette étude, nous avons construit 5 inventaires différents sur un ensemble de 47 échantillons environnementaux (voir le rapprt technique ou le tutoriel pour comprendre les différences 
 entre les technologies) 
@@ -61,7 +61,7 @@ téléchargeable ici (fichier compressé ``inventories.zip``).
 Pour chaque échantillon, deux graphiques ont été produits. Pour chaque graphique, un point représente une espèce reconnue au moins une fois pour au moins une technique. Le nombre de séquences de 
 l'échantillon attribuées à cette espèce lors du séquençage PGM est en abscisse, et pour une des technologie/contigage sur MiSeq en ordonnée. Il y a donc quatre points pour chaque espèce par échantillon. 
 Les combinaisons de technologie x contingage sont indiquées par des couleurs. La diagonale (identité entre les inventaires PGM et MiSEQ est soulignée par uen ligne verte. Il y a deux figures par 
-échantillon : une pour le nombre de séquences, une pour les fréquences.
+échantillon : une pour le nombre de séquences, une pour les fréquences. L'ensemble des figures est téléchargeable ici (fichier ``plots.zip``).
 
 ## Programmes et données
 
