@@ -63,6 +63,21 @@ l'échantillon attribuées à cette espèce lors du séquençage PGM est en absc
 Les combinaisons de technologie x contingage sont indiquées par des couleurs. La diagonale (identité entre les inventaires PGM et MiSEQ est soulignée par uen ligne verte. Il y a deux figures par 
 échantillon : une pour le nombre de séquences, une pour les fréquences.
 
+## Programmes et données
+
+Le programme ``diagno-syst`` écrit en python utilisé pour réaliser les inventaires est téléchargeable à https://github.com/r-syst/tools/tree/master/diagno-syst    
+
+
+Ce site contient
+* le programme, téléchargeable
+* une notice pour l'installation et l'utilisation de ce programme
+* un jeu de données tests pour l'exécuter
+
+
+
+
+
+
 
 
 
