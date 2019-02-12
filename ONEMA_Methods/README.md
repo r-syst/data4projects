@@ -1,12 +1,12 @@
 # Metabarcoding : projet ONEMA-methods
 
 * Rédacteurs: Emilie Chancerel, Alain Franc, Jean-Marc Frigerio
-* Contribueteurs: Agnès Bouchez, Maria Kahlert, Franck Salin
+* Contributeurs: Agnès Bouchez, Maria Kahlert, Franck Salin
 * contact: alain.franc@inra.fr 
 * page crée le 12 février 2019  
 
 
-Cette section contient les données produites dans le cadre du projet ONEMA-méthodes soutenu par l'ONEMA, puis l'AFB (2017-2018). Les fichiers suivants sotn disponibles pour téléchargement :  
+Cette section contient les données produites dans le cadre du projet ONEMA-méthodes soutenu par l'ONEMA, puis l'AFB (2017-2018). Les fichiers suivants sont disponibles pour téléchargement :  
 * le rapport technique produit à l'issue du projet (attente de l'autorisation de l'AFB pour le rendre public sur ce site)
 * un bref tutoriel qui parcourt l'ensemble des étapes pour mener à bien un projet de metabarcoding, de la phase d'extraction de l'ADN à la phase de traitement des données
 * les fichiers de résultats produits lors de ce projet
@@ -33,9 +33,9 @@ nous évaluons l’influence du choix de deux protocoles de construction de libr
 
 
 Pour cela, nous avons étudié 47 échantillons environnementaux, avec cinq constructions d’inventaires : une par la technique de séquençage PGM, et quatre par la technique de séquençage MiSeq. Pour 
-le séquençage MiSeq, nous avons comparé (et croisé) deux méthodes de construction des librairies et tester l’effet d’un contigage (assemblage des segments dits forward et reverse issus du 
+le séquençage MiSeq, nous avons comparé (et croisé) deux méthodes de construction des librairies et testé l’effet d’un contigage (assemblage des segments dits forward et reverse issus du 
 séquençage) avec ou sans filtre de qualité. Pour une profondeur de séquençage quasi équivalente entre les deux méthodes de construction de librairies testées, nous montrons que la méthode 
-utilisée a une influence forte sur le nombre de séquences affectés à une espèce de la base de référence, avec des chiffres qui vont souvent du simple au double, voire au triple, pour les espèces 
+utilisée a une influence forte sur le nombre de séquences affecté à une espèce de la base de référence, avec des chiffres qui vont souvent du simple au double, voire au triple, pour les espèces 
 dominantes. Nous montrons que souvent, une espèce peut être reconnue avec une des méthodes, mais pas avec une autre. Nous montrons que, en revanche, l’application ou non d’un filtre de qualité 
 dans le contigage a peu d’effet sur les inventaires produits. Enfin, nous montrons que ces distorsions sont estompées quand on compare non pas les fréquences absolues des reads affectés à telle 
 ou telle espèce, mais les fréquences relatives au sein de l’ensemble des reads affectés à au moins une espèce.   
@@ -49,7 +49,7 @@ plus méthodologique, en amont, pour mieux comprendre les déterminants de la qu
 
 ## Fichiers de résultats et graphiques
 
-Dans cette étude, nous avons construit 5 inventaires différents sur un ensemble de 47 échantillons environnementaux (voir le rapprt technique ou le tutoriel pour comprendre les différences 
+Dans cette étude, nous avons construit 5 inventaires différents sur un ensemble de 47 échantillons environnementaux (voir le rapport technique ou le tutoriel pour comprendre les différences 
 entre les technologies) 
 * un séquençage avec la technologie PGM
 * deux façons différentes pour construire les librairies (NEB, tailed) pour la technologie Illumina (séquençage MiSeq)
