@@ -14,7 +14,7 @@ Cette section contient les données produites dans le cadre du projet ONEMA-mét
 
 ## Tutoriel
 
-Le tutoriel est téléchargeable, et est en format pdf (``tutoriel_pour_le_metabarcoding_v1.pdf``)
+Le tutoriel est téléchargeable, et est en format pdf (``Tutoriel_pour_le_metabarcoding_v1.pdf``)
 
 ## Rapport technique
 
