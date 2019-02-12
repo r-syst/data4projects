@@ -51,17 +51,21 @@ plus méthodologique, en amont, pour mieux comprendre les déterminants de la qu
 
 Dans cette étude, nous avons construit 5 inventaires différents sur un ensemble de 47 échantillons environnementaux (voir le rapport technique ou le tutoriel pour comprendre les différences 
 entre les technologies) 
-* un séquençage avec la technologie PGM
-* deux façons différentes pour construire les librairies (NEB, tailed) pour la technologie Illumina (séquençage MiSeq)
-* deux façons différentes de réaliser le contigage des deux fragments R1 & R2 produits par le séquençage Illumina (dits with, et without)   
+
+* un séquençage par la technologie Ion-Torrent (PGM)
+* un séquençage  par la technologie Illumina (MiSeq), avec deux façons de construire les librairies (dénommées Ligation et Tailed)
+* pour chaque façon de construire les librairies, la réalisation du contigage selon une procédure standard ou en appliquant une procédure plus exigeante en terme de qualité 
+(dénommée sans ou avec, soit without et with).     
+
 
 Un inventaire a été construit pour chaque jeu de séquences fasta (5 = 1 + 2 x 2 par échantillon) par comparaison des séquences avec la base de référence R-Syst::diatoms. L'ensemble des inventaires est 
-téléchargeable ici (fichier compressé ``inventories.zip``).   
+téléchargeable en haut de cette page, dans l'encart des fichiers téléchargeables (fichier compressé ``inventories.zip``).   
 
 Pour chaque échantillon, deux graphiques ont été produits. Pour chaque graphique, un point représente une espèce reconnue au moins une fois pour au moins une technique. Le nombre de séquences de 
-l'échantillon attribuées à cette espèce lors du séquençage PGM est en abscisse, et pour une des technologie/contigage sur MiSeq en ordonnée. Il y a donc quatre points pour chaque espèce par échantillon. 
-Les combinaisons de technologie x contingage sont indiquées par des couleurs. La diagonale (identité entre les inventaires PGM et MiSEQ est soulignée par uen ligne verte. Il y a deux figures par 
-échantillon : une pour le nombre de séquences, une pour les fréquences. L'ensemble des figures est téléchargeable ici (fichier ``plots.zip``).
+l'échantillon attribuées à cette espèce lors du séquençage PGM est en abscisse, et pour une des combinaisons technologies/contigage sur MiSeq en ordonnée. Il y a donc quatre points pour chaque espèce par échantillon. 
+Les combinaisons de technologie x contigage sont indiquées par des couleurs. La diagonale (identité entre les inventaires PGM et MiSEQ est soulignée par une ligne verte. Il y a deux figures par 
+échantillon : une pour le nombre de séquences, une pour les fréquences. L'ensemble des figures est téléchargeable en haut de cette page, dans l'encart des fichiers téléchargeables  
+(fichier ``plots.zip``).
 
 ## Programmes et données
 
